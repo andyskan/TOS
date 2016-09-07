@@ -1,0 +1,15 @@
+600  cd repo
+  601  cd tos
+  602  git status
+  603  git push
+  604  cd repo
+  605  cd tos
+  606  ls
+  607  which bash
+  608  nano hello_world.sh
+  609  chmod +x hello_world.sh
+  610  ls
+  611  chmod +x hello_world.sh
+  612  ./hello_world.sh
+  613  history>>baru.txt
+
